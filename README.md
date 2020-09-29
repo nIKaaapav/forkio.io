@@ -12,10 +12,6 @@ Website: [link!](https://orlex.github.io/)
 4. JS
 5. GULP
 
-### Developers:
-1. Ihor oRlex: https://github.com/oRLex
-2. Nika nIKaaapavs: https://github.com/nIKaaapav
-
 
 ## Tasks for developers
 Ihor oRlex | Nika nIKaaapavs
