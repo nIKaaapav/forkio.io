@@ -2,5 +2,5 @@
 .xml
 .iml
 package-lock.json
-node_modules/**/*
-dist/**/*
+.node_modules/**/*
+.dist/**/*
